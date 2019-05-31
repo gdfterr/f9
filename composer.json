@@ -1,0 +1,20 @@
+{
+    "name": "9th-cinemax/warrior-season-1-episode-9-streaming-tv",
+    "description": "Watch Warrior Season 1 Episode 9 Online Free Full Putlocker S01E09 WATCH FULL EPISODES HERE (CLICK LINK BELOW FO WATCHING))",
+	"keywords": ["Warrior Season 1 Episode 9 Online Watch"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/0XcOGYd9mB",
+            "homepage": "https://t.co/0XcOGYd9mB",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
